@@ -1,0 +1,16 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+*.ipynb
+
+# Ignore IPython history
+.history
+.ipython/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
