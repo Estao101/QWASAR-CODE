@@ -39,7 +39,7 @@ Save analysis plots as images (.png) in an external folder
 ```
 
 ### The Core Team
-NOUBISSI SOH FRESSIE MEGANE
+NOUBISSI SOH FRESSIE MEGANE and
 TAMAMBANG NJI FRU DUNA
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
